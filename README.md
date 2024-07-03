@@ -21,7 +21,7 @@
 <a href="https://www.codechef.com/users/rishiimaheshwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="utkarxhhh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/m_rishi2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkarxhhh" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/onerishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="utkarxhhh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishiimahehwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarxhhh" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rishiimaheshwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarxhhh" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/mrishi2003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="utkarxhhh" height="30" width="40" /></a>
 <a href="https://lichess.org/@/rishiimaheshwari" target="_blank">
   <img align="center" src="https://github.com/rishi899/rishi899/assets/119059306/05dc2cb9-5926-42f1-a76a-b42c2c81afa7" alt="rishiimaheshwari" height="30" width="40" />
