@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *Data Structures(DSA), Operating Systems, Computer Networks, DBMS, OOPS*
 
-- 💬 Ask me about *Data Structures & Algorithm, MERN Stack, Machine Learning, Deep Learning*
+- 💬 Ask me about *Data Structures & Algorithm, Devops,Cloud Computing, Machine Learning, Deep Learning*
 
 - 📫 How to reach me *m.rishi2003@gmail.com*
 
